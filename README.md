@@ -1,4 +1,16 @@
-# 学习时间线记录
+# 时间线记录
+
+## 2021/2
+
+### 1-7
+
+玩了三四天，最终还是依靠修改器玩完了，戴森球计划这要是硬玩得累死。游戏是好游戏，但是可能还是有点太肝了
+
+了解了一波edr，顺带着epp也有点了解了。其中[TheHive-Project/TheHive: TheHive: a Scalable, Open Source and Free Security Incident Response Platform](https://github.com/TheHive-Project/TheHive)有一个vm提供试用。回学校之后借学校机子再试验一下openedr吧。
+
+半自动的挖了一个通宵。。。算是找出了三四个学校网站的漏洞（有教务老师口头授权），还没有一个整到shell的，当然就算拿了也是不敢动生产数据的。还是全自动+手动测试好些，等学完就去完善自己自动扫描的，然后开搞
+
+发现微信rss一个[hellodword/wechat-feeds: 给微信公众号生成 RSS 订阅源](https://github.com/hellodword/wechat-feeds)，还比较好用，并且打算这最后一个月翻译一篇技术类文章投出去/自己看
 
 ## 2021/1
 
